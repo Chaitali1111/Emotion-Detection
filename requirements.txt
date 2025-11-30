@@ -1,0 +1,8 @@
+numpy==1.23.5
+tensorflow==2.10.0
+keras==2.10.0
+opencv-python
+streamlit
+matplotlib
+pandas
+scikit-learn
