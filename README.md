@@ -1,4 +1,4 @@
-Emotion Detection using Deep Learning (CNN) | OpenCV + TensorFlow + Streamlit
+Emotion Detection 
 
 📌 Project Overview
 
