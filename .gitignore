@@ -3,7 +3,6 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
-*.h5
 *.hdf5
 *.model
 *.ckpt
